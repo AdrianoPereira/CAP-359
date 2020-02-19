@@ -3,6 +3,8 @@
 ## Overview
 This repository contains the project developed in the Principles and Applications of Data Mining Course (CAP359). Course taught by professor [Dr. Rafael Santos](http://www.lac.inpe.br/~rafael.santos), it's part of the Graduate Program in Applied Computing offered by the Brazilian National Institute for Space Research.
 
+Report avaiable in: [https://cap-359.firebaseapp.com](https://cap-359.firebaseapp.com)
+
 ## Table of Contents
 - **Environment setting**
   - [Dependencies and installations](https://github.com/AdrianoPereira/project-cap394/tree/master/docs/dependencies-and-installations.md)
