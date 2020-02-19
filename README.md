@@ -15,6 +15,9 @@ This repository contains the project developed in the Principles and Application
 ## Contact
 
 :octocat: Github - [@AdrianoPereira](https://github.com/AdrianoPereira)
+
 :email: Email - [adriano.almeida@inpe.br](mailto:adriano.almeida@inpe.br)
+
 :earth_americas: Homepage - [https://adrianopereira.github.io/](https://adrianopereira.github.io/)
+
 :boy: Adriano P. Almeida
